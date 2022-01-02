@@ -1,0 +1,48 @@
+body {
+  margin: auto;
+  font-family: "Roboto";
+  font-size: 24px;
+}
+
+.contenedor-grande {
+  padding: auto;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: auto;
+  max-width: 450px;
+  height: 100vh;
+  padding: 35px;
+  margin: 0 auto;
+}
+
+.label {
+  margin: 0;
+}
+
+.input {
+  background-color: #c4c4c4;
+  border: none;
+  width: 100%;
+  margin: 5px auto 30px auto;
+}
+
+.input-email {
+  height: 69px;
+}
+
+.input-mensaje {
+  height: 179px;
+}
+
+.boton {
+  background-color: #5bceff;
+  border: none;
+  width: 100%;
+  height: 69px;
+  font-family: "Roboto";
+  font-size: 24px;
+}
